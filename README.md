@@ -26,7 +26,7 @@ A full-stack web application that allows NGOs to submit monthly reports and prov
 ### Step 1: Clone the repository
 
 \`\`\`bash
-git clone https://github.com/yourusername/ngo-impact-tracker.git
+git clone https://github.com/chandraharshavasa/ngo-impact-tracker.git
 cd ngo-impact-tracker
 \`\`\`
 
